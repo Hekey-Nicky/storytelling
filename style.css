@@ -1,0 +1,28 @@
+
+p{color: darkviolet;}
+
+h1{color: fuchsia;}
+
+li{color: chocolate;}
+
+ol{color: darkviolet;}
+
+ul{color: coral;}
+
+.list{color: firebrick;}
+
+.red{
+    color: darkgoldenrod;
+    margin: 10px;
+    border-style: dotted;
+    border-color: darkgreen;
+    border-radius: 3px;
+}
+
+#header {
+    color: tomato;
+    text-align: center;
+}
+    
+     
+
